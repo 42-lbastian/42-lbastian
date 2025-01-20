@@ -63,9 +63,31 @@ I learned how to use **threads** and **mutexes**.
 
 The goal of this project is to code a simplified version of a shell.
 
-It was my first project with another student. I learned a lot about C through our exchanges and about collaborating using Git. I also deepened my knowledge of shell commands such as redirections (**>**, **>>**, **<**), heredoc (**<<**), and pipes (**|**). Additionally, I gained a better understanding of how a shell truly works. 
+It was my first project with another student. I learned a lot about C through our exchanges and about collaborating using **Git**. I also deepened my knowledge of shell commands such as redirections (**>**, **>>**, **<**), heredoc (**<<**), and pipes (**|**). Additionally, I gained a better understanding of how a shell truly works. 
 
+---
 
+### cub3D
+
+![Image](https://github.com/user-attachments/assets/26706ef9-1a1c-43c5-b014-4ab62561ab4a)
+
+The goal of this project is to create a 3D environment using the same 42 library as *so_long* and **raycasting** like the first FPS (doom for example).
+
+---
+
+### CPP
+
+![ISO_C++_Logo svg(1)](https://github.com/user-attachments/assets/50e5a568-b6bc-4587-ba93-e46bca559dac)
+
+The goal of these projects is to learn the basics of C++, like:
+
+-  Orthodox canonical classes and Inheritance
+-  Subtype polymorphism, abstract classes and interfaces
+-  Try/Catch and Exceptions
+-  Templates
+-  Containers, iterators and algorithms
+
+I also learned how to use dependencies in my makefile for the headers
 
 
 
