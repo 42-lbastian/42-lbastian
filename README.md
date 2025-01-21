@@ -1,5 +1,5 @@
 # About me
-Hi, I'm Loic a french developper, I like to learn new stuff. I'm looking for opportunities that will enable me to develop my programming skills.
+Hi, I'm Loic a French developer, I like to learn new stuff. I'm looking for opportunities that will enable me to develop my programming skills.
 
 ## My projects:
 
