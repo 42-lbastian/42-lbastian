@@ -121,9 +121,10 @@ I learned about
 
 ### Snow-crash
 
-![ISO_C++_Logo svg(1)](https://github.com/user-attachments/assets/50e5a568-b6bc-4587-ba93-e46bca559dac)
-
-This project is an introduction to computer security. I have to find and exploit different security breach.
+This project is an introduction to computer security. I have to find and exploit different security breach. So far, with this project, I have learned how to use tools such as:
+- GDB
+- Wireshark
+- John the Ripper
 
 
 
