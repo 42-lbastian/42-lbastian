@@ -1,7 +1,11 @@
 # About me
-Hi, I'm Loic...
+Hi, I'm Loic a french developper, I like to learn new stuff. I'm looking for opportunities that will enable me to develop my programming skills.
 
 ## My projects:
+
+### All the projects include a Makefile and are free of memory leaks and all file descriptors used are closed.
+
+---
 
 ### ft_printf
 
@@ -89,12 +93,29 @@ The goal of these projects is to learn the basics of C++, like:
 
 I also learned how to use dependencies in my makefile for the headers
 
+---
 
+### computorv1
 
+![ISO_C++_Logo svg(1)](https://github.com/user-attachments/assets/50e5a568-b6bc-4587-ba93-e46bca559dac)
 
+The goal of this project is to write a program that solves a **polynomial second or lower degree equation**.
 
+---
 
+### Inception
 
+![docker-logo-png-transparent(2)](https://github.com/user-attachments/assets/aaa252b5-af34-4f2e-9032-c8e83f6b0626)
+
+The goal of this project is to create multiple **Docker images** from scratch and link them to build a fully functional WordPress website.
+
+I learned about 
+  - docker-compose
+  - docker-network
+  - docker's volume
+  - nginx
+  - MariaDB
+  - php-fpm
 
 
 
