@@ -3,7 +3,7 @@ Hi, I'm Loic a French developer, I like to learn new stuff. I'm looking for oppo
 
 ## My projects:
 
-### All the projects include a Makefile and are free of memory leaks and all file descriptors used are closed.
+### All the projects include a Makefile and are free of memory leaks, data races and all file descriptors used are closed.
 
 ---
 
