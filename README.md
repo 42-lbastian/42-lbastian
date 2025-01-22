@@ -39,7 +39,7 @@ I used a **Quicksort** algorithm, but I modified it to better fit the different 
 
 The goal of this project is to code a program that mimics the functionnement of **|**, **>** and **<** in bash.
 
-I learned how to retrieve environment variables, use the C command **execve**, and utilize **fork** and **pipe** to transfer data between different processes.
+I learned how to retrieve **environment variables**, use the C command **execve**, and utilize **fork** and **pipe** to transfer data between different processes.
 
 ---
 
