@@ -67,7 +67,7 @@ I learned how to use **threads** and **mutexes**.
 
 The goal of this project is to code a simplified version of a shell.
 
-It was my first project with another student. I learned a lot about C through our exchanges and about collaborating using **Git**. I also deepened my knowledge of shell commands such as redirections (**>**, **>>**, **<**), heredoc (**<<**), and pipes (**|**). Additionally, I gained a better understanding of how a shell truly works. 
+It was my first project with another student. I learned a lot about C through our exchanges and about collaborating using **Git**. I also deepened my knowledge of shell commands such as redirections (**>**, **>>**, **<**), heredoc (**<<**), and pipes (**|**). Additionally, I gained a better understanding of how a shell truly works. I learned how to make a **lexer** and **parser**.
 
 ---
 
